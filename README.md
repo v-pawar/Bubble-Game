@@ -67,6 +67,12 @@ Bubble-game/
 ├── screenshot.jpeg
 └── README.md
 ```
+## 🎮 Live Demo
+
+**Play the game here:** [Bubble Game](https://v-pawar.github.io/Bubble-Game/)
+
+Try the live version of the Bubble Game directly in your browser!
+
 
 ---
 
